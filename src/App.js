@@ -9,6 +9,7 @@ function App() {
         <p>
           Cool Spinny Thing
         </p>
+        <aside>By: Ruben Garcia</aside>
       </header>
     </div>
   );
